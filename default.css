@@ -1,0 +1,14 @@
+button {
+  padding: 16px;
+  border-radius: 20px;
+  border: none;
+  background-color: aqua;
+  color: rgb(93, 59, 17);
+  transition: all 0.4s;
+  cursor: pointer;
+
+  &:hover {
+    background-color: aquamarine;
+    color: brown;
+  }
+}
